@@ -1,0 +1,10 @@
+{
+  "name": "passport-parse-api",
+  "author": "M. Zafer Yahsi <mzaferyahsi@gmail.com>",
+  "description": "Parse.com Strategy for Passport.js with Parse.com API",
+  "license": "MIT",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-parse-api": "^0.3.5"
+  }
+}
