@@ -2,6 +2,9 @@
 Parse.com Strategy for Passport.js with Parse.com API
 
 ##Usage
+Use NPM
+    npm install passport-parse-api
+
 Clone this repo and place it under the node_modules folder of your app
 	git clone https://github.com/mzaferyahsi/passport-parse-api
 
